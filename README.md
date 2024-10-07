@@ -1,5 +1,7 @@
 # Crafty
 
+This is a fork of a [team project](https://github.com/arthurbricq/crafty) that I did with my brother and some friends.
+
 A MineCraft clone coded from craft, fully in Rust (without any game engine or any multiplayer framework)
 
 ![](demo/demo1.jpg)
